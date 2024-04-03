@@ -1,0 +1,12 @@
+@defer{
+  <app-heavy></app-heavy>
+}
+@loading(after 100ms;minimum 1s)
+{
+  <h3>Content is loading</h3>
+}
+@error
+{
+  <h3>Error while loading heavy component</h3>
+}
+ 

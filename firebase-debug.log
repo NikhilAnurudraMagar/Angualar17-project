@@ -1,0 +1,169 @@
+[debug] [2024-04-02T12:31:50.841Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T12:31:50.845Z] Command:       D:\nodejs\node.exe C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-04-02T12:31:50.846Z] CLI Version:   13.6.0
+[debug] [2024-04-02T12:31:50.846Z] Platform:      win32
+[debug] [2024-04-02T12:31:50.847Z] Node Version:  v20.11.1
+[debug] [2024-04-02T12:31:50.847Z] Time:          Tue Apr 02 2024 18:01:50 GMT+0530 (India Standard Time)
+[debug] [2024-04-02T12:31:50.847Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-02T12:31:50.877Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=442437489&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2024-04-02T12:31:51.068Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2024-04-02T12:33:28.538Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T12:33:28.540Z] Command:       D:\nodejs\node.exe C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-04-02T12:33:28.540Z] CLI Version:   13.6.0
+[debug] [2024-04-02T12:33:28.540Z] Platform:      win32
+[debug] [2024-04-02T12:33:28.540Z] Node Version:  v20.11.1
+[debug] [2024-04-02T12:33:28.541Z] Time:          Tue Apr 02 2024 18:03:28 GMT+0530 (India Standard Time)
+[debug] [2024-04-02T12:33:28.541Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-02T12:33:28.543Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2024-04-02T12:33:29.195Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2024-04-02T12:33:29.195Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=102623101&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2024-04-02T12:33:32.302Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2024-04-02T12:40:29.286Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T12:40:29.288Z] Command:       D:\nodejs\node.exe C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost --debug
+[debug] [2024-04-02T12:40:29.289Z] CLI Version:   13.6.0
+[debug] [2024-04-02T12:40:29.289Z] Platform:      win32
+[debug] [2024-04-02T12:40:29.289Z] Node Version:  v20.11.1
+[debug] [2024-04-02T12:40:29.289Z] Time:          Tue Apr 02 2024 18:10:29 GMT+0530 (India Standard Time)
+[debug] [2024-04-02T12:40:29.289Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[debug] [2024-04-02T12:40:29.328Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2024-04-02T12:40:29.329Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"7ed0eb0b-d454-4252-adad-9a8e16d21194"}
+[debug] [2024-04-02T12:40:30.596Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2024-04-02T12:40:30.596Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"twvOfu9tB9il_44gFDJA286aWyt53kuJR29amS-BeFw"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    7ED0E
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=-xz3v8P7EQH03NfDnpoNn1XCvm4lIUN76bdN-iPkG_Y&session=7ed0eb0b-d454-4252-adad-9a8e16d21194&attest=twvOfu9tB9il_44gFDJA286aWyt53kuJR29amS-BeFw
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
+[debug] [2024-04-02T12:41:05.240Z] >>> [apiv2][query] POST https://accounts.google.com/o/oauth2/token [none]
+[debug] [2024-04-02T12:41:05.241Z] >>> [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2024-04-02T12:41:08.628Z] <<< [apiv2][status] POST https://accounts.google.com/o/oauth2/token 400
+[debug] [2024-04-02T12:41:08.628Z] <<< [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2024-04-02T12:41:08.630Z] Token Fetch Error: FirebaseError: HTTP Error: 400, invalid_grant
+    at responseToError (C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:49:12)
+    at RetryOperation._fn (C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:299:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[debug] [2024-04-02T12:41:13.652Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:258:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2024-04-02T12:41:50.527Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T12:41:50.529Z] Command:       D:\nodejs\node.exe C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost --debug
+[debug] [2024-04-02T12:41:50.530Z] CLI Version:   13.6.0
+[debug] [2024-04-02T12:41:50.530Z] Platform:      win32
+[debug] [2024-04-02T12:41:50.530Z] Node Version:  v20.11.1
+[debug] [2024-04-02T12:41:50.530Z] Time:          Tue Apr 02 2024 18:11:50 GMT+0530 (India Standard Time)
+[debug] [2024-04-02T12:41:50.530Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[debug] [2024-04-02T12:41:50.569Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2024-04-02T12:41:50.570Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"186ff87d-1ebe-4347-ba6c-cccba25225f5"}
+[debug] [2024-04-02T12:41:51.200Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2024-04-02T12:41:51.201Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"uzSQQDBCEOFt5LWscwTF5pVqL31hKcXclSIDx7iVZv0"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    186FF
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=ii03IsBd-L-lw0LfdAI1TuDnHg4nc-tDTJIlBuAK5SI&session=186ff87d-1ebe-4347-ba6c-cccba25225f5&attest=uzSQQDBCEOFt5LWscwTF5pVqL31hKcXclSIDx7iVZv0
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
+[debug] [2024-04-02T12:42:06.686Z] >>> [apiv2][query] POST https://accounts.google.com/o/oauth2/token [none]
+[debug] [2024-04-02T12:42:06.686Z] >>> [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2024-04-02T12:42:07.076Z] <<< [apiv2][status] POST https://accounts.google.com/o/oauth2/token 400
+[debug] [2024-04-02T12:42:07.077Z] <<< [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2024-04-02T12:42:07.078Z] Token Fetch Error: FirebaseError: HTTP Error: 400, invalid_grant
+    at responseToError (C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:49:12)
+    at RetryOperation._fn (C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:299:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Unable to authenticate using the provided code. Please try again.
+[debug] [2024-04-02T12:45:13.036Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T12:45:13.039Z] Command:       D:\nodejs\node.exe C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-04-02T12:45:13.039Z] CLI Version:   13.6.0
+[debug] [2024-04-02T12:45:13.039Z] Platform:      win32
+[debug] [2024-04-02T12:45:13.039Z] Node Version:  v20.11.1
+[debug] [2024-04-02T12:45:13.039Z] Time:          Tue Apr 02 2024 18:15:13 GMT+0530 (India Standard Time)
+[debug] [2024-04-02T12:45:13.039Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=318578510&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2024-04-02T12:45:16.929Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2024-04-02T12:49:11.427Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T12:49:11.429Z] Command:       D:\nodejs\node.exe C:\Users\SAURABH\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-04-02T12:49:11.430Z] CLI Version:   13.6.0
+[debug] [2024-04-02T12:49:11.430Z] Platform:      win32
+[debug] [2024-04-02T12:49:11.430Z] Node Version:  v20.11.1
+[debug] [2024-04-02T12:49:11.430Z] Time:          Tue Apr 02 2024 18:19:11 GMT+0530 (India Standard Time)
+[debug] [2024-04-02T12:49:11.430Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=794732313&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2024-04-02T12:49:13.985Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
